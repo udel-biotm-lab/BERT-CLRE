@@ -13,7 +13,7 @@ line N-1: original data\
 Line N: augmented data.
 
 ### 3. Contrastive pre-training procedure: 
-
+We implement our project with Tensorflow 1.15.
 
 ```
 
