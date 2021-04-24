@@ -1,9 +1,15 @@
 ### 1. Evaluation datasets for the PPI, DDI and ChemProt tasks: 
-[PPI](https://drive.google.com/file/d/1dn2yDKj7-3SsyKQ5Zm_5sTlLxTCfqQpy/view?usp=sharing)\
-[DDI](https://drive.google.com/file/d/1EEtN1LMI-W4iqtsXVfc64v5PsoAEmJad/view?usp=sharing)\
-[ChemProt](https://drive.google.com/file/d/1XSieVU673Ey52xSV16pZ7a_8fqBJFd6k/view?usp=sharing)
+1. Dataset for [PPI](https://drive.google.com/file/d/1dn2yDKj7-3SsyKQ5Zm_5sTlLxTCfqQpy/view?usp=sharing)\
+2. Dataset for [DDI](https://drive.google.com/file/d/1EEtN1LMI-W4iqtsXVfc64v5PsoAEmJad/view?usp=sharing)\
+3. Dataset for [ChemProt](https://drive.google.com/file/d/1XSieVU673Ey52xSV16pZ7a_8fqBJFd6k/view?usp=sharing)
 
 ### 2. Augmented evaluation datasets for the PPI, DDI and ChemProt tasks:
+1. Dataset for [PPI](https://drive.google.com/file/d/1GUJdJo-ihl2StJMNNyqrPXvNDyKolaTI/view?usp=sharing)\
+2. Dataset for [DDI](https://drive.google.com/file/d/1lTo_yk9J0sJuBy-lXiGDx9SqNZ2UjrE8/view?usp=sharing)\
+3. Dataset for [ChemProt](https://drive.google.com/file/d/1scoGLZAoyM9j9ebvVW9BA1TsjvNO0Xrz/view?usp=sharing)\
+In those augmented datasets, we also include the original data instances, a.k.a., the format of the file is: \
+line N-1: original data\
+Line N: augmented data.
 
 ### 3. Contrastive pre-training procedure: 
 
