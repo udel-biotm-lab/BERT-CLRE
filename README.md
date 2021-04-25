@@ -34,6 +34,7 @@ do
 done
 
 ```
+The datasets for contrastive pre-training will be shared soon!
 
 ### 4. Fine-tuning of BERT model:
 After the pre-training, we then can fine-tune the BERT model on the evaluation sets of PPI, DDI and ChemProt:\
