@@ -17,7 +17,7 @@ We implement our project with Tensorflow 1.15 and we utilize the pre-trained Bio
 $TASK_NAME='aimed' or 'ddi13' or 'chemprot';\
 $BERT_DIR is the path where we store the pre-trained BERT model;\
 $RE_DIR is the path where we have the contrastive learning dataset;\
-$OUTPUT_DIR is the path where we can store the pre-trained BERT model;
+$OUTPUT_DIR is the path where we can store the contrastively pre-trained BERT model;
 ```
 TASK_NAME="task_name"
 BERT_DIR="./biobert_v1.1_pubmed"
