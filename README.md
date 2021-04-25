@@ -58,7 +58,7 @@ do
 	python ./biocodes/re_eval.py --output_path=${OUTPUT_DIR} --answer_path=${RE_DIR} --fold_number=10 --step=${s} --task_name="aimed_constrastive_learning"
 
 
-don
+done
 ```
 
 For the PPI task, we are using 10 fold cross-validation (as shown above), but for DDI and ChemProt, we do not have to do this.
