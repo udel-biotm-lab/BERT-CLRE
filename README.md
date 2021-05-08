@@ -34,7 +34,10 @@ do
 done
 
 ```
-The datasets for contrastive pre-training will be shared soon!
+The datasets for contrastive pre-training are available at:
+1. Contrastive pre-training dataset for [PPI](https://drive.google.com/drive/folders/1fANJLDWxmYgbrAQUqgAlKl9RzcofCHob?usp=sharing)
+2. Contrastive pre-training dataset for [DDI](https://drive.google.com/drive/folders/1IYWJJRDusxUwYfn37jC4k1m3WSyu8FOI?usp=sharing)
+3. Contrastive pre-training dataset for [ChemProt](https://drive.google.com/drive/folders/1l_mDKPOMMaiXkYeuynq3aeVj0902Sbyw?usp=sharing)
 
 ### 4. Fine-tuning of BERT model:
 After the pre-training, we then can fine-tune the BERT model on the evaluation sets of PPI, DDI and ChemProt:\
